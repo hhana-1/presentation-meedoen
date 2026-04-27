@@ -8,7 +8,7 @@ Automatically tracks earnings and warns before the €210/month limit is crossed
 Generates the annual COA earnings report in one click
 Educates employers — no extra cost, permit in 2–3 weeks
 Gives employers verified profiles with reviews and activity history
-Builds a track record that carries into real employment once status is granted
+Builds a track record that carries into real employment
   
 The system fails not because people don't want to help — but because no one has the right information and nothing is tracked.  
   
