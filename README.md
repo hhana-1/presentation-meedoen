@@ -1,3 +1,6 @@
+[Presentation](https://hhana-1.github.io/presentation-meedoen/)
+
+
 ### The Problem
 ~50,000 adults are stuck in limbo for 2+ years, earning nothing, costing €4.19B/year. Nobody has the right information: employers think hiring is costly and complicated, asylum seekers don't know their rights around volunteering, and there is no system to track earnings against the €210/month limit. COA reporting is fully manual.
 
